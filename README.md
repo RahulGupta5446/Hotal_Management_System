@@ -1,4 +1,4 @@
-# git_javaProject 
+# Hotel Management System_project
 In my project “Hotel Management System” I have tried to 
 show how the data/information in hotels is managed. This is 
 just an overview of management in hotels. It manages and 
